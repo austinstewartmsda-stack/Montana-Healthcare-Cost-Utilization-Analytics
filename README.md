@@ -7,5 +7,5 @@ Healthcare analysis using SQL, Tableau, and data cleaning techniques to uncover 
 # Tools Used And For What
 1. Tableau for visualization.
 2. Excel for data cleaning and basic analysis.
-3. SQL for data storage, analysis and data modeling.
+3. SQL for data storage, cleaning, verification of successful cleaning, analysis and data modeling.
    
